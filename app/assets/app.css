@@ -21,6 +21,7 @@ html, body {
 md-toolbar h3 {
   margin: auto;
   color: white;
+  font-weight: 100;
 }
 
 /* Sidenav area */
